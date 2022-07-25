@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="17.0px"
+   height="17.0px"
+   viewBox="0 0 17.0 17.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="desenho.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview371"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.01"
+     inkscape:cx="14150"
+     inkscape:cy="-19600"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid377" />
+  </sodipodi:namedview>
+  <defs
+     id="defs366" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold Italic';fill:#000000"
+       x="400"
+       y="-46400"
+       id="text386"><tspan
+         sodipodi:role="line"
+         id="tspan384"
+         x="400"
+         y="-46400"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan388"
+         x="400"
+         y="-46360">aaaaa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold Italic';fill:#000000"
+       x="900"
+       y="-39800"
+       id="text392"><tspan
+         sodipodi:role="line"
+         id="tspan390"
+         x="900"
+         y="-39800"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan394"
+         x="900"
+         y="-39760" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold Italic';fill:#000000"
+       x="2800"
+       y="-39600"
+       id="text398"><tspan
+         sodipodi:role="line"
+         x="2800"
+         y="-39600"
+         id="tspan412" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold Italic';fill:#000000;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="3300"
+       y="-44800"
+       id="text430"><tspan
+         sodipodi:role="line"
+         id="tspan432">Anderson</tspan></text>
+  </g>
+</svg>
